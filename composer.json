@@ -14,7 +14,7 @@
     "require-dev": { },
     "autoload": {
         "psr-4": {
-            "Kerasai\\drupal-entity-driver\\": "src/"
+            "Kerasai\\DrupalEntityDriver\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Kerasai\drupal-entity-driver;
+namespace Kerasai\DrupalEntityDriver;
 
 use Drupal\Core\Entity\EntityInterface;
 use Drupal\Core\Entity\FieldableEntityInterface;
