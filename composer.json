@@ -1,0 +1,20 @@
+{
+    "name": "kerasai/drupal-entity-driver",
+    "description": "Interface for handling Drupal entities.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Will Long",
+            "email": "will@kerasai.com"
+        }
+    ],
+    "require": {
+        "drupal/core": "^9"
+    },
+    "require-dev": { },
+    "autoload": {
+        "psr-4": {
+            "Kerasai\\drupal-entity-driver\\": "src/"
+        }
+    }
+}
