@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "drupal/core": "^9"
+        "drupal/core": "^8.8 || ^9"
     },
     "require-dev": { },
     "autoload": {
